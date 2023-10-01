@@ -1,6 +1,8 @@
-## Heya, I'm a beta developer, probably alpha, but I guess there's something to learn, here's some of what I do
+## Heya, I'm a beta developer, probably alpha, but I guess there's something to learn.
 
-### Web application development student 🎓
+### Web application development student. 🎓
+
+#### Here's some of what I do.
 
 - [Citra Remmant](https://github.com/Icesito68/citra-remmant), This is a citra mod for android that I make just to experiment
 - [7xx-Drivers](https://github.com/Icesito68/7xx-Drivers/tree/main), Here is an attempt at drivers for the Snapdragon 700 series on Windows arm
