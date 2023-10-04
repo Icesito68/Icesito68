@@ -1,6 +1,6 @@
 ## Heya, I'm a beta developer, probably alpha, but I guess there's something to learn.
 
-### Web application development student.
+### Web application development student.🎓
 
 ### Here's some of what I do:
 
