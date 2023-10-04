@@ -1,7 +1,5 @@
 ## Heya, I'm a beta developer, probably alpha, but I guess there's something to learn.
 
-### Web application development student.🎓
-
 ### Here's some of what I do:
 
 - [Citra Remmant](https://github.com/Icesito68/citra-remmant), This is a citra mod for android that I make just to experiment
