@@ -10,7 +10,7 @@
 - [LGE-SM8150-Drivers](https://github.com/Icesito68/LGE-SM8150-Drivers), These are drivers for the Lg devices on Windows arm
 - [Hp 255 G8 Ryzentosh](https://github.com/Icesito68/Hp-255-G8-Ryzentosh), A personal challenge simply
 
-  ## Some statistics
+  ## Some statistics that look good even if they are not much
 
 <picture>
   <source
