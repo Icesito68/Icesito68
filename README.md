@@ -2,6 +2,8 @@
 
 ### Web application development student.🎓
 
+- GitHub for class and some tests: [IceForClass](https://github.com/IceForClass). 🎓
+
 ### Here's some of what I do:
 
 - [Citra Remmant](https://github.com/Icesito68/citra-remmant), This is a citra mod for android that I make just to experiment
