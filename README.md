@@ -2,7 +2,9 @@
 
 ### Web application development student.🎓
 
-- GitHub for class and some tests: [IceForClass](https://github.com/IceForClass). 🎓
+#### GitHub for class and some tests
+[<img alt="IceForClass" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/146034810?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/IceForClass)
+
 
 ### Here's some of what I do:
 
