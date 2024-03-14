@@ -8,7 +8,7 @@
 
 ### Here's some of what I do:
 
-- [Citra Remmant](https://github.com/Icesito68/citra-remmant), This is a citra mod for android that I make just to experiment
+- [¿?](), This is a citric mod for android that I make just to experiment (Not Yet)
 - [edk2-msm](https://github.com/Icesito68/edk2-msm), Broken edk2 port for Qualcomm platforms
 - [7xx-Drivers](https://github.com/Icesito68/7xx-Drivers/tree/main), Here is an attempt at drivers for the Snapdragon 700 series on Windows arm
 - [LGE-SM8150-Drivers](https://github.com/MollySophia/LGE-SM8150-Drivers), These are drivers for the Lg devices on Windows arm. (Now they are official!!)
