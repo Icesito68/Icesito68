@@ -8,9 +8,7 @@
 
 ### Here's some of what I do:
 
-- [¿?](https://github.com/Icesito68/Frost-Lemon), This is a citric mod for android that I make just to experiment (Not Yet)
-- [7xx-Drivers](https://github.com/Icesito68/7xx-Drivers/tree/main), Here is an attempt at drivers for the Snapdragon 700 series on Windows arm
-- [LGE-SM8150-Drivers](https://github.com/woa-lge/LGE-Drivers/tree/main), These are drivers for the Lg devices on Windows arm.
+- Not Yet (some changes are being made)
 
   ## Some statistics that look good even if they are not much
 
