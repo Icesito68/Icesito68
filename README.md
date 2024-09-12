@@ -10,6 +10,8 @@
 
 - [EvolutionX for Lg G8x](https://github.com/Icesito68/Evolution-X-Lg-G8x)
 
+- [Drivers for Samsung Galaxy S21 FE](https://github.com/IceForClass/Galaxy_S21_FE_5G_Drivers)
+
 - Some more things will be added in the future
 
   ## Some statistics that look good even if they are not much
