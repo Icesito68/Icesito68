@@ -8,7 +8,7 @@
 
 ### Here's some of what I do:
 
-- Not Yet (some changes are being made)
+- [EvolutionX for Lg G8x](https://github.com/Icesito68/Evolution-X-Lg-G8x)
 
   ## Some statistics that look good even if they are not much
 
