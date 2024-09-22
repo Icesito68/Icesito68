@@ -1,4 +1,4 @@
-## Heya, I'm a beta developer, probably alpha, but I guess there's something to learn.
+## Heya, I'm a beta developer, but I guess there's something to learn.
 
 ### Web application development student.🎓
 
