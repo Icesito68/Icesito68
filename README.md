@@ -14,7 +14,7 @@
 
 - Some more things will be added in the future
 
-  ## Some statistics that look good even if they are not much
+  ## 📈 GitHub Stats
 
 <picture>
   <source
