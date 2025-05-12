@@ -11,7 +11,7 @@
 
 - [EvolutionX for Lg G8x](https://github.com/Icesito68/Evolution-X-Lg-G8x)
 
-- [Drivers for Samsung Galaxy S21 FE](https://github.com/IceForClass/Galaxy_S21_FE_5G_Drivers)
+- [Drivers for LGE sm8150 Devices](https://github.com/woa-lge/LGE-Drivers)
 
 - Some more things will be added in the future
 
