@@ -9,7 +9,7 @@
 
 ### Here's some of what I do:
 
-- [EvolutionX for Lg G8x](https://github.com/Icesito68/Evolution-X-Lg-G8x)
+- [EvolutionX for Lg G8x/V50s](https://github.com/Icesito68/Evolution-X-Lg-G8x)
 
 - [Drivers for LGE sm8150 Devices](https://github.com/woa-lge/LGE-Drivers)
 
