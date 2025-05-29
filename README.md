@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Heya, I'm a beta developer, but I guess there's something to learn.
 
-### Web application development student.🎓
+### Web application development.
 
 #### GitHub for class and some tests
 [<img alt="IceForClass" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/146034810?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/IceForClass)
