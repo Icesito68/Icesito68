@@ -1,6 +1,6 @@
 # Heya, I'm a beta full stack developer.
 
-- I prefer working on the backend, and I'm most comfortable working on Linux, though I'm also familiar with macOS and Windows. I'm passionate about operating systems, enjoy working with VPS setups and automation, and have experience with Docker and Git. I’ve mainly worked with the  React + Laravel stack, and I'm planning to learn mobile or cross-platform app development. I'm also interested in specializing in cybersecurity. I'm a developer from the Canary Islands. 🇮🇨
+I prefer working on the backend, and I'm most comfortable working on Linux, though I'm also familiar with macOS and Windows. I'm passionate about operating systems, enjoy working with VPS setups and automation, and have experience with Docker and Git. I’ve mainly worked with the  React + Laravel stack, and I'm planning to learn mobile or cross-platform app development. I'm also interested in specializing in cybersecurity. I'm a developer from the Canary Islands. 🇮🇨
 
 ### Here's some of what I do:
 
