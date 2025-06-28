@@ -6,12 +6,12 @@ I prefer working on the backend, and I'm most comfortable working on Linux, thou
 
 ### Here's some of what I do:
 
-- [EvolutionX for Lg G8x/V50s](https://github.com/Icesito68/Evolution-X-Lg-G8x) (Custom Android ROM that aims to replicate the Google Pixel experience, with added customization)
-
 - [BioCycle](https://biocycle.informaticamajada.es/) (Web platform for compost tracking and visualizing collected data through graphs.)
 
-<!-- - Want to see more? Check out the rest of my [portfolio](enlace)! -->
 
+- [EvolutionX for Lg G8x/V50s](https://github.com/Icesito68/Evolution-X-Lg-G8x) (Custom Android ROM that aims to replicate the Google Pixel experience, with added customization)
+
+<!-- - Want to see more? Check out the rest of my [portfolio](enlace)! -->
 
 # 💻 Tech Stack:
 
