@@ -2,7 +2,6 @@
 
 - I prefer working on the backend, and I'm most comfortable working on Linux, though I'm also familiar with macOS and Windows. I'm passionate about operating systems, enjoy working with VPS setups and automation, and have experience with Docker and Git. I’ve mainly worked with the  React + Laravel stack, and I'm planning to learn mobile or cross-platform app development. I'm also interested in specializing in cybersecurity. I'm a developer from the Canary Islands. 🇮🇨
 
-
 ### Here's some of what I do:
 
 - [EvolutionX for Lg G8x/V50s](https://github.com/Icesito68/Evolution-X-Lg-G8x)
@@ -13,7 +12,7 @@ Custom Android ROM that aims to replicate the Google Pixel experience, with adde
 
 Web platform for compost tracking and visualizing collected data through graphs.
 
-- Want to see more? Check out the rest of my [portfolio](enlace)!
+<!-- - Want to see more? Check out the rest of my [portfolio](enlace)! -->
 
 
 # 💻 Tech Stack:
