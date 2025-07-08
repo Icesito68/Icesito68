@@ -30,6 +30,18 @@ I prefer working on the backend, and I'm most comfortable working on Linux, thou
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+# 📚 Currently Learning:
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F0F0F?style=for-the-badge&logo=hackthebox&logoColor=00FF00)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+# 🤔 On My Radar:
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
 # 📩 Contact Me:
 <p align="left">
   <a href="mailto:elvisdev68@gmail.com" target="_blank">
